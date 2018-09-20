@@ -1,0 +1,1 @@
+A good way to start the design of a program is to list the program's operations. Knowing what operations we need to provide can help us see what data structures we'll need and how we might implement those actions.

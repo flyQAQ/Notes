@@ -1,0 +1,1 @@
+Any operation that change the size of a `vector` makes existing iterators invalid. For example, after calling `push_back`, you should not rely on the value of an iterator into the `vector`.

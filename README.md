@@ -1,2 +1,3 @@
 + glibc
 + c++
++ dialog
